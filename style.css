@@ -1,0 +1,23 @@
+
+.card { background-color: #7800FF;
+width: 350px;
+height: 340px;
+border-radius: 32px;}
+.popular { text-align: center;
+color: bisque;}
+.price { text-align: center;
+color: azure;}
+.lorem { text-align: center;
+color: bisque;}
+.buttom {text-decoration: none;
+    display: block;
+    background-color: rgb(193, 43, 43);border-radius: 20px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    width:200px ;
+    margin: auto;
+    margin-bottom: 8px;
+    color: bisque;
+
+
+height: 50px;}
